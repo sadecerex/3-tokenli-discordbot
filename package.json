@@ -1,0 +1,21 @@
+{
+    "name": "3-tokenli-discordbot",
+    "description": "3 Tokenli Discord Bot",
+    "version": "0.0.1",
+    "main": "rex.js",
+    "author": "sadecerex",
+    "license": "MIT",
+    "scripts": {
+      "start": "node rex.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.16.2",
+      "path" : "",
+      "fs" : ""
+    },
+    "engines": {
+      "node": ">=16.9.0"
+    }
+  }
+
+  
